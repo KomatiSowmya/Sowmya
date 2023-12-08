@@ -1,4 +1,4 @@
-# 💫 Hey there, Sowmya
+# 💫 Hey there, I'm Sowmya
 -🌱 I am currently focused on expanding my knowledge in Back-End Development.<br>-💬 Ask me about anything related to Django, Python and Postgresql...<br>-⚡How to reach me: sowmyakomati9@gmail.com
 
 
